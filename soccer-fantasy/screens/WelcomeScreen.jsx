@@ -45,7 +45,7 @@ const WelcomeScreen = ({ navigation }) => {
           }, 5000); // Restart typing animation after 5 seconds
         }
       }
-    }, 100); // Adjust typing speed as needed
+    }, 100); // Adjust typing speed
   };
 
   return (
