@@ -6,7 +6,6 @@ const HomeScreen = () => {
 
   useEffect(() => {
     const fetchPlayers = async () => {
-      const playerNames = ['ChristianoRonaldo', 'LionelMessi'];
       const playerDataPromises = playerNames.map(name =>
         fetch(`http://127.0.0.1:5000/table`).then(response => response.json())
       );

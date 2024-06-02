@@ -1,0 +1,4615 @@
+{
+    "clermont-foot-63": [
+        {
+            "Name": "Theo Borne",
+            "Position": "G",
+            "Age": "21",
+            "Height": "6'3\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Mory Diaw",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'4\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Massamba N'Diaye",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'7\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Theo Ramousse",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Yoel Armougom",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Neto Borges",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Maximiliano Caufriez",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Jeremy Jacquet",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Cheick Oumar Konate",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Ivan M'Bahia",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Chrislain Matsima",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Florent Ogier",
+            "Position": "D",
+            "Age": "35",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Andy Pelmard",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Mohamed Sylla",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mehdi Zeffane",
+            "Position": "D",
+            "Age": "32",
+            "Height": "5'9\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Stan Berkani",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Johan Gastien",
+            "Position": "M",
+            "Age": "36",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Maxime Gonalons",
+            "Position": "M",
+            "Age": "35",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Habib Keita",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'11\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Adam Mabrouk",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Yohann Magnin",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Muhammed-Cham Saracevic",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Jim Allevinah",
+            "Position": "F",
+            "Age": "29",
+            "Height": "5'7\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Komnen Andric",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Abdellah Baallal",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jeremie Bela",
+            "Position": "F",
+            "Age": "31",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Mohamed Amine Bouchenna",
+            "Position": "F",
+            "Age": "17",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bilal Boutobba",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Grejohn Kyei",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'1\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Aiman Maurer",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Shamar Nicholson",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Elbasan Rashani",
+            "Position": "F",
+            "Age": "31",
+            "Height": "5'11\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Alan Virginius",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Ilhan Fakili",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ilhan Fakili",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.8",
+            "Height": "5'11\"",
+            "Weight": "163.4 lbs"
+        }
+    ],
+    "le-havre-ac": [
+        {
+            "Name": "Paul Argney",
+            "Position": "G",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Arthur Desmas",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'5\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Mathieu Gorgelin",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Cheick Doumbia",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Oualid El Hajjam",
+            "Position": "D",
+            "Age": "33",
+            "Height": "5'11\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Yoni Gomis",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Gautier Lloris",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Yoann Salmier",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Arouna Sangante",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Aliou Thiare",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'5\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Etienne Youte Kinkoue",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'4\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Andre Ayew",
+            "Position": "M",
+            "Age": "34",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Mokrane Bentoumi",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'6\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Matheo Bodmer",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Alois Confais",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Simon Ebonog",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Antoine Joujou",
+            "Position": "M",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Yassine Kechta",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'4\"",
+            "Weight": "127 lbs"
+        },
+        {
+            "Name": "Daler Kuzyaev",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Rassoul N'Diaye",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Loic Nego",
+            "Position": "M",
+            "Age": "33",
+            "Height": "5'11\"",
+            "Weight": "141 lbs"
+        },
+        {
+            "Name": "Christopher Operi",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Emmanuel Sabbi",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Oussama Targhalline",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Abdoulaye Toure",
+            "Position": "M",
+            "Age": "30",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Mohamed Bayo",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Josue Casimir",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Samuel Grandsir",
+            "Position": "F",
+            "Age": "27",
+            "Height": "5'6\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Andy Logbo",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Steve Ngoura",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.6",
+            "Height": "5'11\"",
+            "Weight": "163.6 lbs"
+        }
+    ],
+    "lens": [
+        {
+            "Name": "Jean-Louis Leca",
+            "Position": "G",
+            "Age": "38",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Yannick Pandor",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Brice Samba",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'1\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Ruben Aguilar",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'7\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Jhoanner Chavez",
+            "Position": "D",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Kevin Danso",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Jonathan Gradit",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Massadio Haidara",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Abdukodir Khusanov",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Kenny M'Bala",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Deiver Machado",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Facundo Medina",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Salis Abdul Samed",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Adam Abeddou",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'6\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Anthony Bermont",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jimmy Cabot",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'4\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "David Pereira Da Costa",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'6\"",
+            "Weight": "141 lbs"
+        },
+        {
+            "Name": "Andy Diouf",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Neil El Aynaoui",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Przemyslaw Frankowski",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Angelo Fulgini",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Nampalys Mendy",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'5\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Tom Pouilly",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Ayanda Sishuba",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'6\"",
+            "Weight": "130 lbs"
+        },
+        {
+            "Name": "Fode Sylla",
+            "Position": "M",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Adrien Thomasson",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Ibrahima Balde",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Morgan Guilavogui",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Wesley Said",
+            "Position": "F",
+            "Age": "29",
+            "Height": "5'7\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Florian Sotoca",
+            "Position": "F",
+            "Age": "33",
+            "Height": "6'1\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Sepe Elye Wahi",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.6",
+            "Height": "5'10\"",
+            "Weight": "165.1 lbs"
+        }
+    ],
+    "lille": [
+        {
+            "Name": "Lucas Chevalier",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Mohamed-Amine Ezzarhouni",
+            "Position": "G",
+            "Age": "18",
+            "Height": "5'11\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Adam Jakubech",
+            "Position": "G",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Vito Mannone",
+            "Position": "G",
+            "Age": "36",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Tom Negrel",
+            "Position": "G",
+            "Age": "21",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Lisandru Olmeta",
+            "Position": "G",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Vincent Burlet",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bafode Diakite",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Rafael Fernandes",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Gabriel Gudmundsson",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Ismaily",
+            "Position": "D",
+            "Age": "34",
+            "Height": "5'9\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Alexsandro Ribeiro",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Tiago Santos",
+            "Position": "D",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Ousmane Tour\u00e9",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Samuel Umtiti",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Leny Yoro",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Benjamin Andre",
+            "Position": "M",
+            "Age": "33",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Lilian Baret",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nabil Bentaleb",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Ayyoub Bouaddi",
+            "Position": "M",
+            "Age": "16",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Remy Cabella",
+            "Position": "M",
+            "Age": "34",
+            "Height": "5'7\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Adame Faiz",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Ichem Ferrah",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'7\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Angel Gomes",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'6\"",
+            "Weight": "123 lbs"
+        },
+        {
+            "Name": "Hakon Arnar Haraldsson",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Aaron Malouda",
+            "Position": "M",
+            "Age": "18",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Juan Ignacio Miramon",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'8\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Joffrey Bazie",
+            "Position": "F",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ivan Cavaleiro",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Trevis Dago",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jonathan David",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Andrej Ilic",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Morais",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'6\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Adam Ounas",
+            "Position": "F",
+            "Age": "27",
+            "Height": "5'7\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Yusuf Yazici",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Edon Zhegrova",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'11\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.3",
+            "Height": "5'10\"",
+            "Weight": "166.9 lbs"
+        }
+    ],
+    "lorient": [
+        {
+            "Name": "Alfred Gomis",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'5\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Yvon Mvogo",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Dominique Youfeigane",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Nathaniel Adjei",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'3\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Enzo Genton",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Gedeon Kalulu",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Julien Laporte",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Theo Le Bris",
+            "Position": "D",
+            "Age": "21",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Benjamin Mendy",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Formose Mendy",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Loris Mouyokolo",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'4\"",
+            "Weight": "205 lbs"
+        },
+        {
+            "Name": "Aurelien Pelon",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Igor Silva",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Montassar Talbi",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Souleymane Toure",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'8\"",
+            "Weight": "211 lbs"
+        },
+        {
+            "Name": "Darline Yongwa",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'9\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Laurent Abergel",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'6\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Tosin Aiyegun",
+            "Position": "M",
+            "Age": "35",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Tiemoue Bakayoko",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Quentin Boisgard",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Gino Caoki",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Arthur Avom Ebong",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bonke Innocent",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Ayman Kari",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Panos Katseris",
+            "Position": "M",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Imran Louza",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Carmel Mabanza",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Jean-Victor Makengo",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'9\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Royce Openda",
+            "Position": "M",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Julien Ponceau",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'6\"",
+            "Weight": "132 lbs"
+        },
+        {
+            "Name": "Badredine Bouanani",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'9\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Bamba Dieng",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Eli Kroupi Jr",
+            "Position": "F",
+            "Age": "17",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Bamba Mohamed",
+            "Position": "F",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.0",
+            "Height": "5'11\"",
+            "Weight": "166.2 lbs"
+        }
+    ],
+    "lyon": [
+        {
+            "Name": "Justin Bengui Joao",
+            "Position": "G",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Anthony Lopes",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'0\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Lucas Perri",
+            "Position": "G",
+            "Age": "26",
+            "Height": "6'5\"",
+            "Weight": "216 lbs"
+        },
+        {
+            "Name": "Adryelson",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Duje Caleta-Car",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Sinaly Diomande",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Sael Kumbedi",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Dejan Lovren",
+            "Position": "D",
+            "Age": "34",
+            "Height": "6'2\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Jake O'Brien",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'5\"",
+            "Weight": "207 lbs"
+        },
+        {
+            "Name": "Henrique Silva",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Nicolas Tagliafico",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'7\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Paul Akouokou",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'11\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Maxence Caqueret",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Chaim El Djebali",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Johann Lepenant",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Ainsley Maitland-Niles",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Orel Mangala",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Clinton Mata",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Nemanja Matic",
+            "Position": "M",
+            "Age": "35",
+            "Height": "6'4\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "El Arouch Mohamed",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'5\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Ernest Nuamah",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Corentin Tolisso",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Mama Balde",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Said Benrahma",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'7\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Rayan Cherki",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'9\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Mahamadou Diawara",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Malick Fofana",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'6\"",
+            "Weight": "132 lbs"
+        },
+        {
+            "Name": "Alexandre Lacazette",
+            "Position": "F",
+            "Age": "33",
+            "Height": "5'8\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Gift Emmanuel Orban",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.4",
+            "Height": "5'10\"",
+            "Weight": "166.8 lbs"
+        }
+    ],
+    "marseille": [
+        {
+            "Name": "Ruben Blanco",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Pau Lopez",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Simon Ngapandouetnbu",
+            "Position": "G",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Jelle Van Neck",
+            "Position": "G",
+            "Age": "20",
+            "Height": "6'3\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Leonardo Balerdi",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Amay Caprice",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Jonathan Clauss",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Ulisses Garcia",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Samuel Gigot",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Leo Jousselin",
+            "Position": "D",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Chancel Mbemba",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Bamo Meite",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Quentin Merlin",
+            "Position": "D",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Yakine Said Mmadi",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Michael Murillo",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Brice Negouai",
+            "Position": "D",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Roggerio Nyakossi",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'4\"",
+            "Weight": "200 lbs"
+        },
+        {
+            "Name": "Stephane Sparagna",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Darryl Bakola",
+            "Position": "M",
+            "Age": "16",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Raimane Daou",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Pape Gueye",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Amine Harit",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Geoffrey Kondogbia",
+            "Position": "M",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Gael Lafont",
+            "Position": "M",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Noam Mayoka-Tika",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bilal Nadir",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'7\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Jean Onana",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Azzedine Ounahi",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "136 lbs"
+        },
+        {
+            "Name": "Valentin Rongier",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'7\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Paolo Sciortino",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Emran Soglo",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Alexandre Tunkadi",
+            "Position": "M",
+            "Age": "18",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Jordan Veretout",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'9\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Keyliane Abdallah",
+            "Position": "F",
+            "Age": "18",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Pierre-Emerick Aubameyang",
+            "Position": "F",
+            "Age": "34",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Joaquin Correa",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Alexis Kabamba",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Luis Henrique",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Iuri Moreira",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Faris Pemi Moumbagna",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Iliman Ndiaye",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Ismaila Sarr",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Sofiane Sidi Ali",
+            "Position": "F",
+            "Age": "28",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.8",
+            "Height": "5'11\"",
+            "Weight": "165.1 lbs"
+        }
+    ],
+    "metz": [
+        {
+            "Name": "Marc-Aurele Caillard",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'3\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Guillaume Dietsch",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Alexandre Oukidja",
+            "Position": "G",
+            "Age": "35",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Fali Cande",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Maxime Colin",
+            "Position": "D",
+            "Age": "32",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Albin Demouchy",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Christophe Herelle",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Koffi Kouao",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Ababacar Moustapha Lo",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Ibou Sane",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ismael Traore",
+            "Position": "D",
+            "Age": "37",
+            "Height": "6'0\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Matthieu Udol",
+            "Position": "D",
+            "Age": "28",
+            "Height": "5'10\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Kevin Van Den Kerkhof",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Joel Asoro",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'9\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Arthur Atta",
+            "Position": "M",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Lamine Camara",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'8\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Charles Divialle Corbiere",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ablie Jallow",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'5\"",
+            "Weight": "136 lbs"
+        },
+        {
+            "Name": "Danley Jean-Jacques",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Georges Mikautadze",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'9\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Joseph N'Duquidi",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Kevin N`Doram",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Warren Tchimbembe",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Papa Amadou Diallo",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Didier Lamkel Ze",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Malick Mbaye",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Cheikh Sabaly",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'6\"",
+            "Weight": "123 lbs"
+        },
+        {
+            "Name": "Sadibou Sane",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Benjamin Tetteh",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.1",
+            "Height": "5'11\"",
+            "Weight": "165.8 lbs"
+        }
+    ],
+    "monaco": [
+        {
+            "Name": "Philipp Kohn",
+            "Position": "G",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Yann Lienard",
+            "Position": "G",
+            "Age": "21",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Radoslaw Majecki",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'3\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Caio Henrique",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Ismail Jakobs",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Thilo Kehrer",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Soungoutou Magassa",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Guillermo Maripan",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Kassoum Ouattara",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Aurelien Platret",
+            "Position": "D",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mohammed Salisu",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'3\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Wilfried Stephane Singo",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Ritchy Valme",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Vanderson",
+            "Position": "D",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Maghnes Akliouche",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Ben Seghir",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Mayssam Benama",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Saimon Bouabre",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mohamed Camara",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Mamadou Coulibaly",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Krepin Diatta",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Edan Diop",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Youssouf Fofana",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Aleksandr Golovin",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Takumi Minamino",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Denis Zakaria",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Nazim Babai",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'7\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Folarin Balogun",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Wissam Ben Yedder",
+            "Position": "F",
+            "Age": "33",
+            "Height": "5'6\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Breel Embolo",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Lucas Michal",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.3",
+            "Height": "5'11\"",
+            "Weight": "166.6 lbs"
+        }
+    ],
+    "montpellier": [
+        {
+            "Name": "Dimitry Bertaud",
+            "Position": "G",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Belmin Dizdarevic",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Benjamin Lecomte",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Teo Allix",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Silvan Hefti",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Christopher Jullien",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'4\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Kiki",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Lucas Mincarelli Davin",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Becir Omeragic",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Falaye Sacko",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Modibo Sagnan",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Theo Sainte-Luce",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'9\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Issiaga Sylla",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Enzo Tchato Mbiayi",
+            "Position": "D",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Theo Chennahi",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Joris Chotard",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Tanguy Coulibaly",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Sacha Delaye",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'7\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Khalil Fayad",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'7\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Jordan Ferri",
+            "Position": "M",
+            "Age": "32",
+            "Height": "5'8\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Leo Leroy",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'1\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Teji Savanier",
+            "Position": "M",
+            "Age": "32",
+            "Height": "5'7\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Mousa Suleiman",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Akor Adams",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Serigne Faye",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Axel Gueguin",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Yanis Ali Issoufou",
+            "Position": "F",
+            "Age": "17",
+            "Height": "5'11\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Yann Karamoh",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Wahbi Khazri",
+            "Position": "F",
+            "Age": "33",
+            "Height": "5'11\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Othmane Maamma",
+            "Position": "F",
+            "Age": "18",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Junior Ndiaye",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Arnaud Nordin",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'6\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.2",
+            "Height": "5'10\"",
+            "Weight": "165.4 lbs"
+        }
+    ],
+    "nantes": [
+        {
+            "Name": "Remy Descamps",
+            "Position": "G",
+            "Age": "27",
+            "Height": "6'4\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Alban Lafont",
+            "Position": "G",
+            "Age": "25",
+            "Height": "6'5\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Denis Petric",
+            "Position": "G",
+            "Age": "36",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Kelvin Amian",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Hugo Boutsingkham",
+            "Position": "D",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jean-Charles Castelletto",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Eray Comert",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Nicolas Cozza",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Jean-Kevin Duverne",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Yannis M'Bemba",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Bastien Meupiyou",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'3\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Enzo Mongo",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nicolas Pallois",
+            "Position": "D",
+            "Age": "36",
+            "Height": "6'2\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Robin Voisine",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Nathan Zeze",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Mohamed Achi Bouakline",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'7\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Dehmaine Assoumani",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Abdoul Kader Bamba",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Pedro Chirivella",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Douglas",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Florent Mollet",
+            "Position": "M",
+            "Age": "32",
+            "Height": "5'6\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Samuel Moutoussamy",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'9\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Moses Simon",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'6\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Moussa Sissoko",
+            "Position": "M",
+            "Age": "34",
+            "Height": "6'1\"",
+            "Weight": "200 lbs"
+        },
+        {
+            "Name": "Benie Adama Traore",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'7\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Matthis Abline",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Joe-Loic Affamah",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Stredair Appuah",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Marcus Coco",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Ignatius Kpene Ganago",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Tino Kadewere",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Adel Mahamoud",
+            "Position": "F",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mostafa Mohamed",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Mathis Oger",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.2",
+            "Height": "5'11\"",
+            "Weight": "171.1 lbs"
+        }
+    ],
+    "nice": [
+        {
+            "Name": "Teddy Boulhendi",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Marcin Bulka",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'6\"",
+            "Weight": "218 lbs"
+        },
+        {
+            "Name": "Maxime Dupe",
+            "Position": "G",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Melvin Bard",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Alexis Beka Beka",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Dante",
+            "Position": "D",
+            "Age": "40",
+            "Height": "6'2\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Amidou Doumbouya",
+            "Position": "D",
+            "Age": "16",
+            "Height": "5'11\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Jordan Lotomba",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'9\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Antoine Mendy",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'9\"",
+            "Weight": "136 lbs"
+        },
+        {
+            "Name": "Yannis Nahounou",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Romain Perraud",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Valentin Rosier",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Jean-Clair Todibo",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Jeremie Boga",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Kail Boudache",
+            "Position": "M",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Hichem Boudaoui",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Issiaga Camara",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Sofiane Diop",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Tom Louchet",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'9\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Youssouf Ndayishimiye",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Pablo Rosario",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Morgan Sanson",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Kephren Thuram-Ulien",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Daouda Traore",
+            "Position": "M",
+            "Age": "17",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Sami Wattel",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Aliou Balde",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Mohamed-Ali Cho",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Alexis Claude-Maurice",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "136 lbs"
+        },
+        {
+            "Name": "Evann Guessand",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Gaetan Laborde",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Terem Moffi",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.7",
+            "Height": "5'10\"",
+            "Weight": "166.2 lbs"
+        }
+    ],
+    "paris-fc": [
+        {
+            "Name": "Adama Camara",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Kouadio-Yves Dabila",
+            "Position": "-",
+            "Age": "27",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nouha Dicko",
+            "Position": "-",
+            "Age": "32",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jules Gaudin",
+            "Position": "-",
+            "Age": "24",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Pierre-Yves Hamel",
+            "Position": "-",
+            "Age": "30",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ayoub Jabbari",
+            "Position": "-",
+            "Age": "24",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Kolo",
+            "Position": "-",
+            "Age": "32",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Paul Lasne",
+            "Position": "-",
+            "Age": "35",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Julien Lopez",
+            "Position": "-",
+            "Age": "32",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Josias Tusevo Lukembila",
+            "Position": "-",
+            "Age": "24",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Cyril Mandouki",
+            "Position": "-",
+            "Age": "32",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Vincent Marchetti",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Obed Nkambadio",
+            "Position": "-",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Tuomas Ollila",
+            "Position": "-",
+            "Age": "24",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Andy Pembele",
+            "Position": "-",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "27.6",
+            "Height": "-",
+            "Weight": "-"
+        }
+    ],
+    "paris-sg": [
+        {
+            "Name": "Gianluigi Donnarumma",
+            "Position": "G",
+            "Age": "25",
+            "Height": "6'5\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Alexandre Letellier",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'3\"",
+            "Weight": "205 lbs"
+        },
+        {
+            "Name": "Louis Mouquet",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Keylor Navas",
+            "Position": "G",
+            "Age": "37",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Sergio Rico",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'4\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Arnau Tenas",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Lucas Beraldo",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Joane Kouakou Gadou",
+            "Position": "D",
+            "Age": "17",
+            "Height": "6'4\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Achraf Hakimi",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'11\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Lucas Hernandez",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Presnel Kimpembe",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Layvin Kurzawa",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Marquinhos",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Nuno Mendes",
+            "Position": "D",
+            "Age": "21",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Nordi Mukiele",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'1\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Serif Nhaga",
+            "Position": "D",
+            "Age": "18",
+            "Height": "5'6\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Danilo Pereira",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Milan Skriniar",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Yoram Zague",
+            "Position": "D",
+            "Age": "18",
+            "Height": "5'6\"",
+            "Weight": "141 lbs"
+        },
+        {
+            "Name": "Lee Kang-in",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Senny Mayulu",
+            "Position": "M",
+            "Age": "18",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Ethan Mbappe  Lottin",
+            "Position": "M",
+            "Age": "17",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Fabian Ruiz",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Carlos Soler",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Manuel Ugarte",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Vitinha",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'7\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Warren Zaire Emery",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Marco Asensio",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'8\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Bradley Barcola",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Ousmane Dembele",
+            "Position": "F",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Randal Kolo Muani",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Kylian Mbappe",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Goncalo Ramos",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.7",
+            "Height": "5'11\"",
+            "Weight": "168.6 lbs"
+        }
+    ],
+    "reims": [
+        {
+            "Name": "Ludovic Butelle",
+            "Position": "G",
+            "Age": "41",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Yehvann Diouf",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Alexandre Olliero",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Yunis Abdelhamid",
+            "Position": "D",
+            "Age": "36",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Emmanuel Agbadou",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Sergio Akieme",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Maxime Busi",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Thibault De Smet",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'11\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Fallou Fall",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'3\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Thomas Foket",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'9\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Therence Koudou",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Joseph Okumu",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Killian Prouchet",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nhoa Sangui",
+            "Position": "D",
+            "Age": "18",
+            "Height": "5'7\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Benjamin Stambouli",
+            "Position": "D",
+            "Age": "33",
+            "Height": "5'10\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Arthur Tchaptchet",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Valentin Atangana Edoa",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Oumar Diakite",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Yaya Kader Fofana",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Junya Ito",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'9\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Reda Khadra",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Samuel Koeberle",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Amadou Kone",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Marshall Munetsi",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Keito Nakamura",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Amir Richardson",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'4\"",
+            "Weight": "202 lbs"
+        },
+        {
+            "Name": "Teddy Teuma",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Bojang",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Mohammed Daramy",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Mamadou Diakhon",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Christ-Emmanuel Letono Mbondi",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ikechukwu Orazi",
+            "Position": "F",
+            "Age": "16",
+            "Height": "5'9\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Abdoul Kone",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.7",
+            "Height": "5'11\"",
+            "Weight": "168.5 lbs"
+        }
+    ],
+    "rennes": [
+        {
+            "Name": "Yann Batola",
+            "Position": "G",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Gauthier Gallon",
+            "Position": "G",
+            "Age": "31",
+            "Height": "6'1\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Geoffrey Lembet",
+            "Position": "G",
+            "Age": "35",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Steve Mandanda",
+            "Position": "G",
+            "Age": "39",
+            "Height": "6'1\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Rayan Bamba",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Jeanuel Belocian",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Guela Doue",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Mahamadou Nagida",
+            "Position": "D",
+            "Age": "18",
+            "Height": "5'9\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Warmed Omari",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Alidu Seidu",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Arthur Theate",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Adrien Truffert",
+            "Position": "D",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Christopher Wooh",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Ludovic Blas",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Benjamin Bourigeaud",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Djaoui Cisse",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Desire Doue",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Enzo Le Fee",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Azor Matusiwa",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Fabian Rieder",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Baptiste Santamaria",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Amine Gouiri",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Arnaud Kalimuendo",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Mathis Lambourde",
+            "Position": "F",
+            "Age": "18",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Ibrahim Salah",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Martin Terrier",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Bertug Ozgur Yildirim",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.0",
+            "Height": "5'11\"",
+            "Weight": "166.6 lbs"
+        }
+    ],
+    "rodez-aveyron": [
+        {
+            "Name": "Abdel Hakim Abdallah",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Kevin Boma",
+            "Position": "-",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Lucas Buades",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Sebastien Cibois",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Killian Corredor",
+            "Position": "-",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bradley Danger",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Giovanni Haag",
+            "Position": "-",
+            "Age": "24",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Andreas Hountondji",
+            "Position": "-",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ewen Jaouen",
+            "Position": "-",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Raphael Lipinski",
+            "Position": "-",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Stone Mambo",
+            "Position": "-",
+            "Age": "25",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ahmad Ngouyamsa",
+            "Position": "-",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Lorenzo Rajot",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Serge-Philippe Raux Yao",
+            "Position": "-",
+            "Age": "25",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Waniss Taibi",
+            "Position": "-",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Yannis Verdier",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Wilitty Younoussa",
+            "Position": "-",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.4",
+            "Height": "-",
+            "Weight": "-"
+        }
+    ],
+    "st-etienne": [
+        {
+            "Name": "Dennis Appiah",
+            "Position": "-",
+            "Age": "31",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Dylan Batubinsika",
+            "Position": "-",
+            "Age": "28",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mahmoud Bentayg",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Benjamin Bouchouari",
+            "Position": "-",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Anthony Briancon",
+            "Position": "-",
+            "Age": "29",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mathieu Cafaro",
+            "Position": "-",
+            "Age": "27",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Irvin Cardona",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Dylan Chambost",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Lamine Fomba",
+            "Position": "-",
+            "Age": "26",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Etienne Green",
+            "Position": "-",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Gautier Larsonneur",
+            "Position": "-",
+            "Age": "27",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Yvann Macon",
+            "Position": "-",
+            "Age": "25",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nathanael Mbuku",
+            "Position": "-",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Thomas Monconduit",
+            "Position": "-",
+            "Age": "33",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Aimen Moueffek",
+            "Position": "-",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mickael Nade",
+            "Position": "-",
+            "Age": "25",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Leo Petrot",
+            "Position": "-",
+            "Age": "27",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Maxence Rivera",
+            "Position": "-",
+            "Age": "22",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ibrahim Sissoko",
+            "Position": "-",
+            "Age": "28",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Florian Tardieu",
+            "Position": "-",
+            "Age": "32",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "26.4",
+            "Height": "-",
+            "Weight": "-"
+        }
+    ],
+    "stade-brestois-29": [
+        {
+            "Name": "Marco Bizot",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Gregorie Coudert",
+            "Position": "G",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Yan Marillat",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Jordan Amavi",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Lilian Brassier",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Antonin Cartillier",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Brendan Chardonnet",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Kenny Lala",
+            "Position": "D",
+            "Age": "32",
+            "Height": "5'10\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Julien Le Cardinal",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Bradley Locko",
+            "Position": "D",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Luck Zogbe",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mahdi Camara",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Romain Del Castillo",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'7\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Kamory Doumbia",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Tommy Le Verge",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Adrian Lebeau",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Pierre Lees Melou",
+            "Position": "M",
+            "Age": "31",
+            "Height": "6'1\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Hugo Magnetti",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Jonas Martin",
+            "Position": "M",
+            "Age": "34",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Mathias Pereira Lage",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Billal Brahimi",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Axel Camblan",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'6\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Djibril Konte",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Jeremy Le Douaron",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Steve Mounie",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Martin Satriano",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.6",
+            "Height": "5'10\"",
+            "Weight": "163.0 lbs"
+        }
+    ],
+    "strasbourg": [
+        {
+            "Name": "Alaa Bellaarouch",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Matthieu Dreyer",
+            "Position": "G",
+            "Age": "35",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Alexandre Pierre",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Steven Baseya",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Thomas Delaine",
+            "Position": "D",
+            "Age": "32",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Ismael Doukoure",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Elies Araar Fernandez",
+            "Position": "D",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Karol Fila",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Frederic Guilbert",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Junior Mwanga",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Lucas Perrin",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Marvin Senaya",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Saidou Sow",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Abakar Sylla",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Jean Eudes Aholou",
+            "Position": "M",
+            "Age": "30",
+            "Height": "6'1\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Jessy Deminguet",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Diarra Mouhamadou",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Samir El Mourabet",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Rabby Nzingoula",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Andrey Santos",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Ibrahima Sissoko",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Aboubacar Ali Abdallah",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Angelo Gabriel",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Dilane Bakwa",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Mohamed Bechikh",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Emanuel Emegha",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'4\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Kevin Gameiro",
+            "Position": "F",
+            "Age": "37",
+            "Height": "5'7\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Lebo Mothiba",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Tom Saettel",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Moise Sahi",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Jeremy Sebas",
+            "Position": "F",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Tidiane Diallo",
+            "Position": "-",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Patrick Ouotro",
+            "Position": "-",
+            "Age": "-",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "22.9",
+            "Height": "5'11\"",
+            "Weight": "166.1 lbs"
+        }
+    ],
+    "toulouse": [
+        {
+            "Name": "Alex Dominguez",
+            "Position": "G",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Thomas Himeur",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Justin Lacombe",
+            "Position": "G",
+            "Age": "21",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Guillaume Restes",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Ylies Aradj",
+            "Position": "D",
+            "Age": "18",
+            "Height": "5'9\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Logan Costa",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "200 lbs"
+        },
+        {
+            "Name": "Mikkel Desler",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Moussa Diarra",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Waren Kamanzi",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'9\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Kevin Keben",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'6\"",
+            "Weight": "127 lbs"
+        },
+        {
+            "Name": "Christian Mawissa Elebi",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Rasmus Nicolaisen",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Nicolas Wasbauer",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Cristian Casseres Jr",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Ibrahim Cissoko",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Yann Gboho",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Cesar Gelabert",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Denis Genreau",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Noah Lahmadi",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Rafik Messali",
+            "Position": "M",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Niklas Schmidt",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Vincent Sierro",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'1\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Naatan Skytta",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'6\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Stijn Spierings",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Gabriel Suazo",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Edhy Zuliani",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Zakaria Aboukhlal",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Shavy Warren Babicka",
+            "Position": "F",
+            "Age": "24",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Thijs Dallinga",
+            "Position": "F",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Aron Donnum",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Noah Edjouma",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Frank Magri",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Bonota Traore",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "22.8",
+            "Height": "5'10\"",
+            "Weight": "165.5 lbs"
+        }
+    ]
+}

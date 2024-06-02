@@ -1,0 +1,4935 @@
+{
+    "ac-milan": [
+        {
+            "Name": "Mike Maignan",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Antonio Mirante",
+            "Position": "G",
+            "Age": "40",
+            "Height": "6'3\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Lapo Nava",
+            "Position": "G",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Noah Raveyre",
+            "Position": "G",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Marco Sportiello",
+            "Position": "G",
+            "Age": "32",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Lorenzo Torriani",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Fode Ballo-Toure",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'11\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Davide Bartesaghi",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Davide Calabria",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Mattia Caldara",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Alessandro Florenzi",
+            "Position": "D",
+            "Age": "33",
+            "Height": "5'8\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Matteo Gabbia",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Theo Hernandez",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Alejandro Jimenez Sanchez",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'9\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Pierre Kalulu",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Simon Kjaer",
+            "Position": "D",
+            "Age": "35",
+            "Height": "6'3\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Clinton Nsiala-Makengo",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Jan-Carlo Simic",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Malick Thiaw",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'4\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Fikayo Tomori",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Yacine Adli",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Ismael Bennacer",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Samuel Chukwueze",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'7\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Victor Ehuwa Eletu",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'6\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ruben Loftus-Cheek",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Yunus Musah",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'9\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Tommaso Pobega",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Tijani Reijnders",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Filippo Terracciano",
+            "Position": "M",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Kevin Zeroli",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Francesco Camarda",
+            "Position": "F",
+            "Age": "16",
+            "Height": "6'0\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Olivier Giroud",
+            "Position": "F",
+            "Age": "37",
+            "Height": "6'3\"",
+            "Weight": "200 lbs"
+        },
+        {
+            "Name": "Luka Jovic",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'11\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Rafael Leao",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Noah Okafor",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Christian Pulisic",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Emil Roback",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Diego Sia",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.4",
+            "Height": "6'0\"",
+            "Weight": "174.1 lbs"
+        }
+    ],
+    "ac-monza": [
+        {
+            "Name": "Michele Di Gregorio",
+            "Position": "G",
+            "Age": "26",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Stefano Gori",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Andrea Mazza",
+            "Position": "G",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Alessandro Sorrentino",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Davide Bettella",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Samuele Birindelli",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'9\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Luca Caldirola",
+            "Position": "D",
+            "Age": "33",
+            "Height": "6'2\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Andrea Carboni",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Danilo D`Ambrosio",
+            "Position": "D",
+            "Age": "35",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Giulio Donati",
+            "Position": "D",
+            "Age": "34",
+            "Height": "5'10\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Armando Izzo",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Giorgos Kyriakopoulos",
+            "Position": "D",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Pablo Mari",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Jean Akpa",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Alessandro Berretta",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Warren Bondo",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'9\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Valentin Carboni",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Leonardo Colombo",
+            "Position": "M",
+            "Age": "18",
+            "Height": "5'8\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Andrea Colpani",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Roberto Gagliardini",
+            "Position": "M",
+            "Age": "30",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Papu Gomez",
+            "Position": "M",
+            "Age": "36",
+            "Height": "5'5\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Jose Machin",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Pedro Pereira",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Matteo Pessina",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'1\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Matija Popovic",
+            "Position": "M",
+            "Age": "18",
+            "Height": "6'3\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Samuele Vignato",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'7\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Gianluca Caprari",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Patrick Ciurria",
+            "Position": "F",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Lorenzo Colombo",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Milan Djuric",
+            "Position": "F",
+            "Age": "34",
+            "Height": "6'6\"",
+            "Weight": "207 lbs"
+        },
+        {
+            "Name": "Andrea Ferraris",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Daniel Maldini",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'11\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Dany Mota",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Alessio Zerbin",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'11\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "26.0",
+            "Height": "5'11\"",
+            "Weight": "165.7 lbs"
+        }
+    ],
+    "atalanta": [
+        {
+            "Name": "Marco Carnesecchi",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Juan Musso",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'3\"",
+            "Weight": "205 lbs"
+        },
+        {
+            "Name": "Francesco Rossi",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Paolo Vismara",
+            "Position": "G",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mitchel Bakker",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Giovanni Bonfanti",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Andrea Ceresoli",
+            "Position": "D",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Tommaso Del Lungo",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Berat Djimsiti",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Hans Hateboer",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Isak Hien",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'3\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Emil Holm",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Sead Kolasinac",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'0\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Marco Palestra",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jose Luis Palomino",
+            "Position": "D",
+            "Age": "34",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Matteo Ruggeri",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Giorgio Scalvini",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Rafael Toloi",
+            "Position": "D",
+            "Age": "33",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Davide Zappacosta",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Michel Ndary Adopo",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Pietro Comi",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Alessandro Cortinovis",
+            "Position": "M",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Marten De Roon",
+            "Position": "M",
+            "Age": "33",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Ederson",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Teun Koopmeiners",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Leonardo Mendicino",
+            "Position": "M",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mario Pasalic",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Moustapha Cisse",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Charles De Ketelaere",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Tommaso De Nipoti",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Siren Diao",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ademola Lookman",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Aleksey Miranchuk",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Gianluca Scamacca",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'4\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "El Bilal Toure",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.8",
+            "Height": "6'1\"",
+            "Weight": "175.3 lbs"
+        }
+    ],
+    "bologna": [
+        {
+            "Name": "Nicola Bagnolini",
+            "Position": "G",
+            "Age": "20",
+            "Height": "6'3\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Tito Gasperini",
+            "Position": "G",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Federico Ravaglia",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Lukasz Skorupski",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'1\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Wisdom Amey",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Sam Beukema",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Riccardo Calafiori",
+            "Position": "D",
+            "Age": "22",
+            "Height": "5'9\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Tommaso Corazza",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Lorenzo De Silvestri",
+            "Position": "D",
+            "Age": "36",
+            "Height": "6'1\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Mihajlo Ilic",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Victor Kristiansen",
+            "Position": "D",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Jhon Lucumi",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Babis Lykogiannis",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Stefan Posch",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Adama Soumaoro",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'1\"",
+            "Weight": "200 lbs"
+        },
+        {
+            "Name": "Michel Aebischer",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Oussama El Azzouzi",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Giovanni Fabbian",
+            "Position": "M",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Lewis Ferguson",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Remo Freuler",
+            "Position": "M",
+            "Age": "32",
+            "Height": "5'11\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Nikola Moro",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Alexis Saelemaekers",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Kacper Urbanski",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Santiago Thomas Castro",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Jesper Karlsson",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Dan Ndoye",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Jens Odgaard",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Riccardo Orsolini",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Tommaso Ravaglioli",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Joshua Zirkzee",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.2",
+            "Height": "6'0\"",
+            "Weight": "173.2 lbs"
+        }
+    ],
+    "cagliari": [
+        {
+            "Name": "Simone Aresti",
+            "Position": "G",
+            "Age": "38",
+            "Height": "6'1\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Velizar-Iliya Iliev",
+            "Position": "G",
+            "Age": "18",
+            "Height": "6'4\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Boris Radunovic",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'4\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Simone Scuffet",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Tommaso Augello",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Pantelis Chatzidiakos",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Alessandro Di Pardo",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Alberto Dossena",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'4\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Yerry Mina",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'4\"",
+            "Weight": "209 lbs"
+        },
+        {
+            "Name": "Adam Obert",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Mateusz Wieteska",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'1\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Gabriele Zappa",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Alessandro Deiola",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Gianluca Gaetano",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Jakub Jankto",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Antoine Makoumbou",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Marco Mancosu",
+            "Position": "M",
+            "Age": "35",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Nahitan Nandez",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'7\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Gaetano Oristanio",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Matteo Prati",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Sulemana",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Nicolas Viola",
+            "Position": "M",
+            "Age": "34",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Paulo Azzi",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Gianluca Lapadula",
+            "Position": "F",
+            "Age": "34",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Zito Luvumbo",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'7\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Kingstone Mutandwa",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Leonardo Pavoletti",
+            "Position": "F",
+            "Age": "35",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Andrea Petagna",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": "Eldor Shomurodov",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Alessandro Vinciguerra",
+            "Position": "F",
+            "Age": "18",
+            "Height": "5'5\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "26.6",
+            "Height": "6'0\"",
+            "Weight": "172.4 lbs"
+        }
+    ],
+    "empoli": [
+        {
+            "Name": "Etrit Berisha",
+            "Position": "G",
+            "Age": "35",
+            "Height": "6'4\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Elia Caprile",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Samuele Perisan",
+            "Position": "G",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Jacopo Seghetti",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Filippo Lapo Vertua",
+            "Position": "G",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bartosz Bereszynski",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'11\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Liberato Cacace",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'6\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Tyronne Ebuehi",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'1\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Saba Goglichidze",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'3\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Gabriele Indragoli",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Ardian Ismajli",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Sebastiano Luperto",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Giuseppe Pezzella",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'1\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Lorenzo Tonelli",
+            "Position": "D",
+            "Age": "34",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Sebastian Walukiewicz",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Simone Bastoni",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Luca Belardinelli",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Nicolo Cambiaghi",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Jacopo Fazzini",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Alberto Grassi",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Viktor Kovalenko",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Youssef Maleh",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Razvan Marin",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'8\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Andrea Sodero",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Szymon Zurkowski",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Matteo Cancellieri",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Francesco Caputo",
+            "Position": "F",
+            "Age": "36",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Alberto Cerri",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Giacomo Corona",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'4\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Mattia Destro",
+            "Position": "F",
+            "Age": "33",
+            "Height": "5'11\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Emmanuel Gyasi",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "M'Baye Niang",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Steven Shpendi",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.7",
+            "Height": "6'0\"",
+            "Weight": "169.9 lbs"
+        }
+    ],
+    "fiorentina": [
+        {
+            "Name": "Oliver Christensen",
+            "Position": "G",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Tommaso Martinelli",
+            "Position": "G",
+            "Age": "18",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Pietro Terracciano",
+            "Position": "G",
+            "Age": "34",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Tommaso Vannucchi",
+            "Position": "G",
+            "Age": "17",
+            "Height": "6'5\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Christian Biagetti",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Cristiano Biraghi",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Pietro Comuzzo",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Dodo",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'5\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Davide Faraoni",
+            "Position": "D",
+            "Age": "32",
+            "Height": "5'10\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Niccolo Fortini",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Michael Kayode",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Nikola Milenkovic",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'4\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Fabiano Parisi",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Lucas Quarta",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Luca Ranieri",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Antonin Barak",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Giacomo Bonaventura",
+            "Position": "M",
+            "Age": "34",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Gaetano Castrovilli",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'9\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Alfred Duncan",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Jonathan Ikone",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Gino Infantino",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'7\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Maxime Lopez",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'5\"",
+            "Weight": "127 lbs"
+        },
+        {
+            "Name": "Rolando Mandragora",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Arthur Melo",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'7\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Andrea Belotti",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Lucas Beltran",
+            "Position": "F",
+            "Age": "23",
+            "Height": "5'9\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Maat Daniel Caprini",
+            "Position": "F",
+            "Age": "18",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nicolas Gonzalez",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Christian Kouame",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "M'bala Nzola",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Fallou Sene",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Riccardo Sottil",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.0",
+            "Height": "5'11\"",
+            "Weight": "166.9 lbs"
+        }
+    ],
+    "frosinone": [
+        {
+            "Name": "Michele Cerofolini",
+            "Position": "G",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Pierluigi Frattali",
+            "Position": "G",
+            "Age": "38",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Lorenzo Palmisani",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Stefano Turati",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Kevin Bonifazi",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'1\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Sergio Kalaj",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Matjaz Kamensek-Pahic",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Pol Lirola",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Mateus Lusuardi",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Daniel Macej",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Riccardo Marchizza",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Ilario Monterisi",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Caleb Okoli",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Anthony Oyono",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Simone Romagnoli",
+            "Position": "D",
+            "Age": "34",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Emanuele Valeri",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Nadir Zortea",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Enzo Barrenechea",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Marco Brescianini",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Marvin Cuni",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Luca Garritano",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'8\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Abdou Harroui",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Luca Mazzitelli",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Reinier",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Isak Vural",
+            "Position": "M",
+            "Age": "18",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Jaime Baez",
+            "Position": "F",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Soufiane Bidaoui",
+            "Position": "F",
+            "Age": "34",
+            "Height": "5'6\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Giuseppe Caso",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'7\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Walid Cheddira",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Francesco Gelli",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Fares Ghedjemis",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Arijon Ibrahimovic",
+            "Position": "F",
+            "Age": "18",
+            "Height": "5'9\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Kaio Jorge",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "141 lbs"
+        },
+        {
+            "Name": "Giorgi Kvernadze",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Demba Seck",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Alessandro Selvini",
+            "Position": "F",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Matias Soule",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.2",
+            "Height": "6'0\"",
+            "Weight": "167.1 lbs"
+        }
+    ],
+    "genoa": [
+        {
+            "Name": "Simone Calvani",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Nicola Leali",
+            "Position": "G",
+            "Age": "31",
+            "Height": "6'3\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Josep Mart\u00ednez",
+            "Position": "G",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Daniele Sommariva",
+            "Position": "G",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Franz Stolz",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Mattia Bani",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'2\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Giorgio Cittadini",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Koni De Winter",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Ridgeciano Haps",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'8\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Aaron Martin",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Alan Matturro",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Tommaso Pittino",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Stefano Sabelli",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Djed Spence",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Johan Vasquez",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'11\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Alessandro Vogliacco",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Riccardo Arboscello",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Milan Badelj",
+            "Position": "M",
+            "Age": "35",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Emil Bohinen",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Morten Frendrup",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Ruslan Malinovskyi",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'11\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Christos Papadopoulos",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Kevin Strootman",
+            "Position": "M",
+            "Age": "34",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Morten Thorsby",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "David Ankeye",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Yoan Bornosuzov",
+            "Position": "F",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "V\u00edtor Carvalho",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Caleb Ekuban",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Albert Gudmundsson",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'9\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Junior Messias",
+            "Position": "F",
+            "Age": "33",
+            "Height": "5'8\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Mateo Retegui",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.5",
+            "Height": "6'0\"",
+            "Weight": "169.9 lbs"
+        }
+    ],
+    "inter-milan": [
+        {
+            "Name": "Emil Audero",
+            "Position": "G",
+            "Age": "27",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Alessandro Calligaris",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Raffaele Di Gennaro",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Yann Sommer",
+            "Position": "G",
+            "Age": "35",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Francesco Acerbi",
+            "Position": "D",
+            "Age": "36",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Carlos Augusto",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Alessandro Bastoni",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Yann Bisseck",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'4\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Juan Cuadrado",
+            "Position": "D",
+            "Age": "36",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Matteo Darmian",
+            "Position": "D",
+            "Age": "34",
+            "Height": "5'11\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Stefan De Vrij",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Federico Dimarco",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'11\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Matteo Motta",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Benjamin Pavard",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Giacomo Stabile",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Aleksandar Stankovic",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Kristjan Asllani",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": "Nicolo Barella",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'7\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Hakan Calhanoglu",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Denzel Dumfries",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Davide Frattesi",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Issiaka Kamate",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Davy Klaassen",
+            "Position": "M",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Henrikh Mkhitaryan",
+            "Position": "M",
+            "Age": "35",
+            "Height": "5'9\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Stefano Sensi",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'6\"",
+            "Weight": "136 lbs"
+        },
+        {
+            "Name": "Ebenezer Akinsamiro",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Marko Arnautovic",
+            "Position": "F",
+            "Age": "35",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Tajon Buchanan",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Dennis Curatolo",
+            "Position": "F",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Lautaro Martinez",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Alexis Sanchez",
+            "Position": "F",
+            "Age": "35",
+            "Height": "5'6\"",
+            "Weight": "136 lbs"
+        },
+        {
+            "Name": "Amadou Makhtar Sarr",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Marcus Thuram",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "26.7",
+            "Height": "5'11\"",
+            "Weight": "167.9 lbs"
+        }
+    ],
+    "juventus": [
+        {
+            "Name": "Giovanni Daffara",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'4\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Mattia Perin",
+            "Position": "G",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Carlo Pinsoglio",
+            "Position": "G",
+            "Age": "34",
+            "Height": "6'3\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Simone Scaglia",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'5\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Wojciech Szczesny",
+            "Position": "G",
+            "Age": "34",
+            "Height": "6'4\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Bremer",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Andrea Cambiaso",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Danilo",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Mattia De Sciglio",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Tiago Djalo",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Federico Gatti",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Tarik Muharemovic",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Daniele Rugani",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Alex Sandro",
+            "Position": "D",
+            "Age": "33",
+            "Height": "5'10\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Carlos Alcaraz",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'9\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Nicolo Fagioli",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Luis Hasa",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'7\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Filip Kostic",
+            "Position": "M",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Manuel Locatelli",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Weston McKennie",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Fabio Miretti",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Joseph Nonge",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Paul Pogba",
+            "Position": "M",
+            "Age": "31",
+            "Height": "6'3\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Adrien Rabiot",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'3\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Nikola Sekulov",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Kenan Yildiz",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Hans Nicolussi Caviglia",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Leonardo Cerri",
+            "Position": "F",
+            "Age": "21",
+            "Height": "6'5\"",
+            "Weight": "200 lbs"
+        },
+        {
+            "Name": "Federico Chiesa",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Samuel Iling-Junior",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Moise Kean",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Tommaso Mancini",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Arkadiusz Milik",
+            "Position": "F",
+            "Age": "30",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Dusan Vlahovic",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Timothy Weah",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.1",
+            "Height": "6'0\"",
+            "Weight": "170.3 lbs"
+        }
+    ],
+    "lazio": [
+        {
+            "Name": "Federico Magro",
+            "Position": "G",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Christos Mandas",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Ivan Provedel",
+            "Position": "G",
+            "Age": "30",
+            "Height": "6'3\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Davide Renzetti",
+            "Position": "G",
+            "Age": "17",
+            "Height": "6'4\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Luigi Sepe",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Nicolo Casale",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Matteo Dutu",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Mario Gila",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Elseid Hysaj",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Adam Marusic",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Patric",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Luca Pellegrini",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Alessio Romagnoli",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Fabio Ruggeri",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Andre Anderson",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Danilo Cataldi",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Larsson Coulibaly",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Matteo Guendouzi",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Gustav Isaksen",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Daichi Kamada",
+            "Position": "M",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Manuel Lazzari",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'8\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Luca Napolitano",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'7\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Nicolo Rovella",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Matias Vecino",
+            "Position": "M",
+            "Age": "32",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Luis Alberto",
+            "Position": "F",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Felipe Anderson",
+            "Position": "F",
+            "Age": "31",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Valentin Castellanos",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Diego Gonzalez",
+            "Position": "F",
+            "Age": "21",
+            "Height": "5'9\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Ciro Immobile",
+            "Position": "F",
+            "Age": "34",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Cristiano Lombardi",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Sana Eusebio Mango Fernandes",
+            "Position": "F",
+            "Age": "18",
+            "Height": "5'4\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Pedro",
+            "Position": "F",
+            "Age": "36",
+            "Height": "5'6\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Mattia Zaccagni",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'9\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "26.0",
+            "Height": "5'10\"",
+            "Weight": "161.6 lbs"
+        }
+    ],
+    "napoli": [
+        {
+            "Name": "Nikita Contini",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Pierluigi Gollini",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'4\"",
+            "Weight": "207 lbs"
+        },
+        {
+            "Name": "Hubert Idasiak",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Alex Meret",
+            "Position": "G",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Nicola Pellino",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Claudio Turi",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Luigi D'Avino",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'1\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Jacopo Di Lauro",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Giovanni Di Lorenzo",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'11\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Juan Jesus",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'0\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Pasquale Mazzocchi",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Alessio Mazzonetto",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Natan",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "202 lbs"
+        },
+        {
+            "Name": "Mathias Olivera",
+            "Position": "D",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Leo Ostigard",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Amir Rrahmani",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'3\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Mario Rui",
+            "Position": "D",
+            "Age": "33",
+            "Height": "5'6\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Frank Anguissa",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Jens-Lys Cajuste",
+            "Position": "M",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Diego Demme",
+            "Position": "M",
+            "Age": "32",
+            "Height": "5'6\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Leander Dendoncker",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Francesco Gioielli",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Khvicha Kvaratskhelia",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'11\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Manuel Legnante",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jesper Lindstrom",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Stanislav Lobotka",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'6\"",
+            "Weight": "141 lbs"
+        },
+        {
+            "Name": "Luciano Peluso",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Hamed Junior Traor\u00e9",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'9\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Piotr Zielinski",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "141 lbs"
+        },
+        {
+            "Name": "Cyril Ngonge",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Victor Osimhen",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Matteo Politano",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'7\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Giacomo Raspadori",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'7\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Lorenzo Russo",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Giovanni Simeone",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Gianluca Vigliotti",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mario Vilardi",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.7",
+            "Height": "5'10\"",
+            "Weight": "168.2 lbs"
+        }
+    ],
+    "roma": [
+        {
+            "Name": "Pietro Boer",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Renato Marin",
+            "Position": "G",
+            "Age": "17",
+            "Height": "6'2\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Rui Patricio",
+            "Position": "G",
+            "Age": "36",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Mile Svilar",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Angelino",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'8\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Zeki Celik",
+            "Position": "D",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Lovro Golic",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Dean Huijsen",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Rick Karsdorp",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Rasmus Kristensen",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'1\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Diego Llorente",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'1\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Gianluca Mancini",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'2\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Evan N Dicka",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'3\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Jan Oliveras",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Matteo Plaia",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Chris Smalling",
+            "Position": "D",
+            "Age": "34",
+            "Height": "6'4\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Leonardo Spinazzola",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'1\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Houssem Aouar",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Tommaso Baldanzi",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'6\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Edoardo Bove",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Bryan Cristante",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'1\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Francesco D'Alessio",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mattia Mannini",
+            "Position": "M",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Riccardo Pagano",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Leandro Paredes",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Lorenzo Pellegrini",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'1\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Niccolo Pisilli",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Renato Sanches",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'9\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Martin Vetkal",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nicola Zalewski",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Tammy Abraham",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Sardar Azmoun",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Luigi Cherubini",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Joao Costa",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Paulo Dybala",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Stephan El Shaarawy",
+            "Position": "F",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Romelu Lukaku",
+            "Position": "F",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "205 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.6",
+            "Height": "5'11\"",
+            "Weight": "169.4 lbs"
+        }
+    ],
+    "sassuolo": [
+        {
+            "Name": "Andrea Consigli",
+            "Position": "G",
+            "Age": "37",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Alessio Cragno",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Gianluca Pegolo",
+            "Position": "G",
+            "Age": "43",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Alessandro Scacchetti",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Daniel Theiner",
+            "Position": "G",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Josh Doig",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Martin Erlic",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Matteo Falasca",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Gian Marco Ferrari",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Marash Kumbulla",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Seb Loeffen",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Filippo Missori",
+            "Position": "D",
+            "Age": "20",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Marcus Holmgren Pedersen",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Ruan",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Jeremy Toljan",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Mattia Viti",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Salim Abubakar",
+            "Position": "M",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nedim Bajrami",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Daniel Boloca",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Matheus Henrique",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'8\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Justin Kumi",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Luca Lipani",
+            "Position": "M",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Samuele Mulattieri",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Pedro Obiang",
+            "Position": "M",
+            "Age": "32",
+            "Height": "6'1\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Uros Racic",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Kristian Thorstvedt",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Cristian Volpato",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Domenico Berardi",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Samu Castillejo",
+            "Position": "F",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Emil Konradsen Ceide",
+            "Position": "F",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Gregoire Defrel",
+            "Position": "F",
+            "Age": "32",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Armand Lauriente",
+            "Position": "F",
+            "Age": "25",
+            "Height": "5'7\"",
+            "Weight": "130 lbs"
+        },
+        {
+            "Name": "Andrea Pinamonti",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.2",
+            "Height": "6'0\"",
+            "Weight": "167.2 lbs"
+        }
+    ],
+    "sportiva-salernitana": [
+        {
+            "Name": "Pasquale Allocca",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Benoit Costil",
+            "Position": "G",
+            "Age": "36",
+            "Height": "6'1\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Vincenzo Fiorillo",
+            "Position": "G",
+            "Age": "34",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Salvati Gregorio",
+            "Position": "G",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Guillermo Ochoa",
+            "Position": "G",
+            "Age": "38",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Jerome Boateng",
+            "Position": "D",
+            "Age": "35",
+            "Height": "6'3\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Domagoj Bradaric",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Federico Fazio",
+            "Position": "D",
+            "Age": "37",
+            "Height": "6'4\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Tommaso Ferrari",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Niccolo Guccione",
+            "Position": "D",
+            "Age": "18",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Norbert Gyomber",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'2\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Kostas Manolas",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Triantafyllos Pasalidis",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Marco Pellegrino",
+            "Position": "D",
+            "Age": "21",
+            "Height": "6'0\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Lorenzo Pirola",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Alessandro Zanoli",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Toma Basic",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Ciro Borrelli",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Antonio Candreva",
+            "Position": "M",
+            "Age": "37",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Lassana Coulibaly",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'8\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Rocco Di Vico",
+            "Position": "M",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Emanuele Elia",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Iron Gomis",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Grigoris Kastanos",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Mateusz Legowski",
+            "Position": "M",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Giulio Maggiore",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Agustin Martegani",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Niccolo Pierozzi",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Junior Sambia",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Andres Sfait",
+            "Position": "M",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Luca Boncori",
+            "Position": "F",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Boulaye Dia",
+            "Position": "F",
+            "Age": "27",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Gerardo Fusco",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Chukwubuikem Ikwuemesi",
+            "Position": "F",
+            "Age": "22",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mikael",
+            "Position": "F",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Simy",
+            "Position": "F",
+            "Age": "32",
+            "Height": "6'5\"",
+            "Weight": "196 lbs"
+        },
+        {
+            "Name": "Loum Tchaouna",
+            "Position": "F",
+            "Age": "20",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Emanuel Vignato",
+            "Position": "F",
+            "Age": "23",
+            "Height": "5'8\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Shon Weissman",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'8\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "25.2",
+            "Height": "6'0\"",
+            "Weight": "167.1 lbs"
+        }
+    ],
+    "torino": [
+        {
+            "Name": "Matteo Brezzo",
+            "Position": "G",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Luca Gemello",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Vanja Milinkovic-Savic",
+            "Position": "G",
+            "Age": "27",
+            "Height": "6'7\"",
+            "Weight": "202 lbs"
+        },
+        {
+            "Name": "Pietro Passador",
+            "Position": "G",
+            "Age": "21",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Mihai Popa",
+            "Position": "G",
+            "Age": "23",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Simone Servelli",
+            "Position": "G",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jacopo Antolini",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Raoul Bellanova",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Come Bianay Balcot",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'2\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Alessandro Buongiorno",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'3\"",
+            "Weight": "180 lbs"
+        },
+        {
+            "Name": "Alessandro Dellavalle",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Koffi Djidji",
+            "Position": "D",
+            "Age": "31",
+            "Height": "6'0\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Matteo Lovato",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'2\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Adam Masina",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Vimoj Muntu Wa Mungu",
+            "Position": "D",
+            "Age": "19",
+            "Height": "5'4\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Ricardo Rodriguez",
+            "Position": "D",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Saba Sazonov",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'3\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Perr Schuurs",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'3\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Mergim Vojvoda",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'1\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Aaron Ciammaglichella",
+            "Position": "M",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Gvidas Gineitis",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "134 lbs"
+        },
+        {
+            "Name": "Ivan Ilic",
+            "Position": "M",
+            "Age": "23",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Valentino Lazaro",
+            "Position": "M",
+            "Age": "28",
+            "Height": "5'10\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Karol Linetty",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'9\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Samuele Ricci",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'8\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Zannetos Savva",
+            "Position": "M",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jonathan Silva",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Adrien Tameze",
+            "Position": "M",
+            "Age": "30",
+            "Height": "5'10\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Nikola Vlasic",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Uros Kabic",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Alieu Eybi Njie",
+            "Position": "F",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "David Okereke",
+            "Position": "F",
+            "Age": "26",
+            "Height": "5'11\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Pietro Pellegri",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Antonio Sanabria",
+            "Position": "F",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Duvan Zapata",
+            "Position": "F",
+            "Age": "33",
+            "Height": "6'2\"",
+            "Weight": "194 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "23.8",
+            "Height": "6'0\"",
+            "Weight": "168.5 lbs"
+        }
+    ],
+    "udinese": [
+        {
+            "Name": "Joel Malusa",
+            "Position": "G",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Federico Mosca",
+            "Position": "G",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Maduka Okoye",
+            "Position": "G",
+            "Age": "24",
+            "Height": "6'5\"",
+            "Weight": "202 lbs"
+        },
+        {
+            "Name": "Daniele Padelli",
+            "Position": "G",
+            "Age": "38",
+            "Height": "6'3\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Marco Silvestri",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'3\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "James Abankwah",
+            "Position": "D",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Enzo Ebosse",
+            "Position": "D",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Kingsley Ehizibue",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Joao Ferreira",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Lautaro Giannetti",
+            "Position": "D",
+            "Age": "30",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Christian Kabasele",
+            "Position": "D",
+            "Age": "33",
+            "Height": "6'1\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Hassane Kamara",
+            "Position": "D",
+            "Age": "30",
+            "Height": "5'6\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Thomas Kristensen",
+            "Position": "D",
+            "Age": "22",
+            "Height": "6'5\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Samuel John Nwachukwu",
+            "Position": "D",
+            "Age": "18",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Matteo Palma",
+            "Position": "D",
+            "Age": "16",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Nehuen Perez",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "167 lbs"
+        },
+        {
+            "Name": "Antonio Tikvic",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'4\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jordan Zemura",
+            "Position": "D",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Jaka Bijol",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'2\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Festy Ebosele",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'10\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Sandi Lovric",
+            "Position": "M",
+            "Age": "26",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Martin Payero",
+            "Position": "M",
+            "Age": "25",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "David Pejicic",
+            "Position": "M",
+            "Age": "16",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Roberto Pereyra",
+            "Position": "M",
+            "Age": "33",
+            "Height": "5'11\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Lazar Samardzic",
+            "Position": "M",
+            "Age": "22",
+            "Height": "5'9\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Walace",
+            "Position": "M",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Oier Zarraga",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'8\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Brenner",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'8\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Keinan Davis",
+            "Position": "F",
+            "Age": "26",
+            "Height": "6'3\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Gerard Deulofeu",
+            "Position": "F",
+            "Age": "30",
+            "Height": "5'9\"",
+            "Weight": "160 lbs"
+        },
+        {
+            "Name": "Lorenzo Lucca",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'7\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Diego Russo",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'1\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Isaac Success",
+            "Position": "F",
+            "Age": "28",
+            "Height": "6'1\"",
+            "Weight": "198 lbs"
+        },
+        {
+            "Name": "Florian Thauvin",
+            "Position": "F",
+            "Age": "31",
+            "Height": "5'10\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.9",
+            "Height": "6'0\"",
+            "Weight": "169.8 lbs"
+        }
+    ],
+    "us-lecce": [
+        {
+            "Name": "Alexandru Borbei",
+            "Position": "G",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Federico Brancolini",
+            "Position": "G",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "147 lbs"
+        },
+        {
+            "Name": "Wladimiro Falcone",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'4\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Jasper Samooja",
+            "Position": "G",
+            "Age": "20",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Federico Baschirotto",
+            "Position": "D",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Kastriot Dermaku",
+            "Position": "D",
+            "Age": "32",
+            "Height": "6'4\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Patrick Dorgu",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Sebastian Esposito",
+            "Position": "D",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Antonino Gallo",
+            "Position": "D",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Valentin Gendrey",
+            "Position": "D",
+            "Age": "23",
+            "Height": "5'10\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Marin Pongracic",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "209 lbs"
+        },
+        {
+            "Name": "Daniel Samek",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Ahmed Touba",
+            "Position": "D",
+            "Age": "26",
+            "Height": "6'2\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Lorenzo Venuti",
+            "Position": "D",
+            "Age": "29",
+            "Height": "5'9\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Alexis Blin",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Joan Gonzalez",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'2\"",
+            "Weight": "185 lbs"
+        },
+        {
+            "Name": "Mohamed Kaba",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Santiago Pierotti",
+            "Position": "M",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "182 lbs"
+        },
+        {
+            "Name": "Hamza Rafia",
+            "Position": "M",
+            "Age": "25",
+            "Height": "5'10\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Ylber Latif Ramadani",
+            "Position": "M",
+            "Age": "28",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Pontus Almqvist",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'9\"",
+            "Weight": "152 lbs"
+        },
+        {
+            "Name": "Lameck Banda",
+            "Position": "F",
+            "Age": "23",
+            "Height": "5'6\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Medon Berisha",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Rares Burnete",
+            "Position": "F",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Jeppe Corfitzen",
+            "Position": "F",
+            "Age": "19",
+            "Height": "5'10\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Nikola Krstovic",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Remi Oudin",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'1\"",
+            "Weight": "178 lbs"
+        },
+        {
+            "Name": "Roberto Piccoli",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Nicola Sansone",
+            "Position": "F",
+            "Age": "32",
+            "Height": "5'8\"",
+            "Weight": "138 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.0",
+            "Height": "6'0\"",
+            "Weight": "171.4 lbs"
+        }
+    ],
+    "verona": [
+        {
+            "Name": "Alessandro Berardi",
+            "Position": "G",
+            "Age": "33",
+            "Height": "6'0\"",
+            "Weight": "171 lbs"
+        },
+        {
+            "Name": "Mattia Chiesa",
+            "Position": "G",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Lorenzo Montipo",
+            "Position": "G",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "158 lbs"
+        },
+        {
+            "Name": "Simone Perilli",
+            "Position": "G",
+            "Age": "29",
+            "Height": "6'4\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Giacomo Toniolo",
+            "Position": "G",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Juan Cabal",
+            "Position": "D",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Nicolo Calabrese",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Fabien Centtonze",
+            "Position": "D",
+            "Age": "28",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Diego Coppola",
+            "Position": "D",
+            "Age": "20",
+            "Height": "6'3\"",
+            "Weight": "187 lbs"
+        },
+        {
+            "Name": "Christian Corradi",
+            "Position": "D",
+            "Age": "19",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Pawel Dawidowicz",
+            "Position": "D",
+            "Age": "29",
+            "Height": "6'2\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Giangiacomo Magnani",
+            "Position": "D",
+            "Age": "28",
+            "Height": "6'3\"",
+            "Weight": "191 lbs"
+        },
+        {
+            "Name": "Ruben Vinagre",
+            "Position": "D",
+            "Age": "25",
+            "Height": "5'5\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Reda Belahyane",
+            "Position": "M",
+            "Age": "20",
+            "Height": "5'6\"",
+            "Weight": "121 lbs"
+        },
+        {
+            "Name": "Charlys",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'1\"",
+            "Weight": "176 lbs"
+        },
+        {
+            "Name": "Ondrej Duda",
+            "Position": "M",
+            "Age": "29",
+            "Height": "5'11\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Michael Folorunsho",
+            "Position": "M",
+            "Age": "26",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Joselito",
+            "Position": "M",
+            "Age": "20",
+            "Height": "6'0\"",
+            "Weight": "169 lbs"
+        },
+        {
+            "Name": "Darko Lazovic",
+            "Position": "M",
+            "Age": "33",
+            "Height": "5'11\"",
+            "Weight": "145 lbs"
+        },
+        {
+            "Name": "Stefan Mitrovic",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'11\"",
+            "Weight": "154 lbs"
+        },
+        {
+            "Name": "Nicola Patane",
+            "Position": "M",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Suat Serdar",
+            "Position": "M",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": "Dani Silva",
+            "Position": "M",
+            "Age": "24",
+            "Height": "5'4\"",
+            "Weight": "110 lbs"
+        },
+        {
+            "Name": "Tomas Suslov",
+            "Position": "M",
+            "Age": "21",
+            "Height": "5'8\"",
+            "Weight": "143 lbs"
+        },
+        {
+            "Name": "Jackson Tchatchoua",
+            "Position": "M",
+            "Age": "22",
+            "Height": "6'1\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Junior Ajayi",
+            "Position": "F",
+            "Age": "19",
+            "Height": "6'0\"",
+            "Weight": "-"
+        },
+        {
+            "Name": "Federico Bonazzoli",
+            "Position": "F",
+            "Age": "27",
+            "Height": "5'11\"",
+            "Weight": "174 lbs"
+        },
+        {
+            "Name": "Denis Cazzadori",
+            "Position": "F",
+            "Age": "20",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Alphadjo Cisse",
+            "Position": "F",
+            "Age": "17",
+            "Height": "-",
+            "Weight": "-"
+        },
+        {
+            "Name": "Juan Manuel Cruz",
+            "Position": "F",
+            "Age": "24",
+            "Height": "6'0\"",
+            "Weight": "156 lbs"
+        },
+        {
+            "Name": "Thomas Henry",
+            "Position": "F",
+            "Age": "29",
+            "Height": "6'3\"",
+            "Weight": "189 lbs"
+        },
+        {
+            "Name": "Tijjani Noslin",
+            "Position": "F",
+            "Age": "24",
+            "Height": "5'10\"",
+            "Weight": "149 lbs"
+        },
+        {
+            "Name": "Karol Swiderski",
+            "Position": "F",
+            "Age": "27",
+            "Height": "6'0\"",
+            "Weight": "163 lbs"
+        },
+        {
+            "Name": "Elayis Tavsan",
+            "Position": "F",
+            "Age": "23",
+            "Height": "6'0\"",
+            "Weight": "165 lbs"
+        },
+        {
+            "Name": null,
+            "Position": "-",
+            "Age": "24.0",
+            "Height": "5'11\"",
+            "Weight": "162.8 lbs"
+        }
+    ]
+}
