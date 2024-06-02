@@ -1,11 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView, TextInput } from 'react-native';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, TextInput, ActivityIndicator } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 
-const Tab = createBottomTabNavigator();
-
-const RosterScreen = ({ rosterPlayers, addPlayerToRoster }) => {
+const RosterScreen = ({ rosterPlayers }) => {
   return (
     <ScrollView contentContainerStyle={styles.cardsContainer} horizontal={false}>
       {rosterPlayers.map((player, index) => (
@@ -21,83 +18,13 @@ const RosterScreen = ({ rosterPlayers, addPlayerToRoster }) => {
   );
 };
 
-const AllPlayersScreen = ({ allPlayers, addPlayerToRoster }) => {
-  return (
-    <ScrollView contentContainerStyle={styles.cardsContainer} horizontal={false}>
-      {allPlayers.map((player, index) => (
-        <TouchableOpacity key={index} style={styles.card} onPress={() => addPlayerToRoster(player)}>
-          <Text style={styles.cardTitle}>{player.Name}</Text>
-          <Text>Position: {player.Position}</Text>
-          <Text>Age: {player.Age}</Text>
-          <Text>Height: {player.Height}</Text>
-          <Text>Weight: {player.Weight}</Text>
-        </TouchableOpacity>
-      ))}
-    </ScrollView>
-  );
-};
-
-const FieldScreen = () => {
-  return (
-    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Field Screen</Text>
-    </View>
-  );
-};
-
-const TeamScreen = () => {
-  const [players, setPlayers] = useState([]);
-  const [filteredPlayers, setFilteredPlayers] = useState([]);
+const AllPlayersScreen = ({ allPlayers, addPlayerToRoster, players, setFilteredPlayers }) => {
   const [searchText, setSearchText] = useState('');
   const [selectedPositions, setSelectedPositions] = useState([]);
-  const [rosterPlayers, setRosterPlayers] = useState([]);
-
-  useEffect(() => {
-    // Fetch data from JSON files
-    const fetchData = async () => {
-      try {
-        const premierData = require('../json_files/premier-roster.json');
-        const bundesligaData = require('../json_files/bundesliga-roster.json');
-        const laligaData = require('../json_files/laliga-roster.json');
-        const ligue1Data = require('../json_files/ligue1-roster.json');
-        const serieData = require('../json_files/serie-roster.json');
-    
-        const allPlayers = [
-          ...extractPlayersFromLeague(premierData),
-          ...extractPlayersFromLeague(bundesligaData),
-          ...extractPlayersFromLeague(laligaData),
-          ...extractPlayersFromLeague(ligue1Data),
-          ...extractPlayersFromLeague(serieData)
-        ];
-    
-        setPlayers(allPlayers);
-        setFilteredPlayers(allPlayers);
-      } catch (error) {
-        console.error('Error fetching data: ', error);
-      }
-    };
-    
-    const extractPlayersFromLeague = (leagueData) => {
-      const allPlayers = [];
-      for (const clubKey in leagueData) {
-        if (Object.hasOwnProperty.call(leagueData, clubKey)) {
-          const clubPlayers = leagueData[clubKey];
-          allPlayers.push(...clubPlayers);
-        }
-      }
-      return allPlayers;
-    };
-    
-    fetchData();
-  }, []);
 
   const handleSearch = (text) => {
     setSearchText(text);
     filterPlayers(text, selectedPositions);
-  };
-
-  const handleFilter = () => {
-    filterPlayers(searchText, selectedPositions);
   };
 
   const togglePosition = (position) => {
@@ -118,11 +45,6 @@ const TeamScreen = () => {
     });
     setFilteredPlayers(filtered);
   };
-  
-
-  const addPlayerToRoster = (player) => {
-    setRosterPlayers([...rosterPlayers, player]);
-  };
 
   return (
     <View style={styles.container}>
@@ -133,20 +55,137 @@ const TeamScreen = () => {
           onChangeText={handleSearch}
           value={searchText}
         />
-        <TouchableOpacity onPress={handleFilter}>
-          <Text>Filter</Text>
+      </View>
+      <View style={styles.filters}>
+        <ScrollView horizontal={true} contentContainerStyle={styles.filterOptions}>
+          {['G', 'D', 'M', 'F'].map((position, index) => (
+            <TouchableOpacity
+              key={index}
+              style={[
+                styles.filterOption,
+                selectedPositions.includes(position) && styles.filterOptionSelected
+              ]}
+              onPress={() => togglePosition(position)}
+            >
+              <Text>{position}</Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+      </View>
+      <ScrollView contentContainerStyle={styles.cardsContainer} horizontal={false}>
+        {allPlayers.map((player, index) => (
+          <TouchableOpacity key={index} style={styles.card} onPress={() => addPlayerToRoster(player)}>
+            <Text style={styles.cardTitle}>{player.Name}</Text>
+            <Text>Position: {player.Position}</Text>
+            <Text>Age: {player.Age}</Text>
+            <Text>Height: {player.Height}</Text>
+            <Text>Weight: {player.Weight}</Text>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
+    </View>
+  );
+};
+
+const DraftScreen = () => {
+  const [countdown, setCountdown] = useState(90);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setCountdown((prevCountdown) => {
+        if (prevCountdown === 0) {
+          clearInterval(timer);
+          // Handle what to do when countdown reaches zero
+        }
+        return prevCountdown - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, []);
+
+  const formatTime = (time) => {
+    const minutes = Math.floor(time / 60);
+    const seconds = time % 60;
+    return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+  };
+
+  return (
+    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+      <Text style={{ fontSize: 20, marginBottom: 20 }}>Next draft in {formatTime(countdown)}</Text>
+    </View>
+  );
+};
+
+const TeamScreen = () => {
+  const [players, setPlayers] = useState([]);
+  const [filteredPlayers, setFilteredPlayers] = useState([]);
+  const [rosterPlayers, setRosterPlayers] = useState([]);
+  const [selectedTab, setSelectedTab] = useState('Roster');
+  const [pageNumber, setPageNumber] = useState(1);
+  const playersPerPage = 1000; // Adjust as needed
+
+  useEffect(() => {
+    // Fetch data from JSON files
+    const fetchData = async () => {
+      try {
+        const allPlayers = require('../json_files/AllPlayers.json');
+        setPlayers(allPlayers);
+        setFilteredPlayers(allPlayers);
+      } catch (error) {
+        console.error('Error fetching data: ', error);
+      }
+    };
+    
+    fetchData();
+  }, []);
+
+  const addPlayerToRoster = (player) => {
+    setRosterPlayers([...rosterPlayers, player]);
+  };
+
+  const renderTab = () => {
+    switch (selectedTab) {
+      case 'Roster':
+        return <RosterScreen rosterPlayers={rosterPlayers} />;
+      case 'All Players':
+        return <AllPlayersScreen
+          allPlayers={filteredPlayers.slice((pageNumber - 1) * playersPerPage, pageNumber * playersPerPage)}
+          addPlayerToRoster={addPlayerToRoster}
+          players={players}
+          setFilteredPlayers={setFilteredPlayers}
+        />;
+      case 'Draft':
+        return <DraftScreen />;
+      default:
+        return null;
+    }
+  };
+
+  return (
+    <View style={styles.container}>
+      <View style={styles.tabContainer}>
+        <TouchableOpacity
+          style={[styles.tab, selectedTab === 'Roster' && styles.selectedTab]}
+          onPress={() => setSelectedTab('Roster')}
+        >
+          <Text style={styles.tabText}>Roster</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={[styles.tab, selectedTab === 'All Players' && styles.selectedTab]}
+          onPress={() => setSelectedTab('All Players')}
+        >
+          <Text style={styles.tabText}>All Players</Text>
+        </TouchableOpacity>
+        <TouchableOpacity
+          style={[styles.tab, selectedTab === 'Draft' && styles.selectedTab]}
+          onPress={() => setSelectedTab('Draft')}
+        >
+          <Text style={styles.tabText}>Draft</Text>
         </TouchableOpacity>
       </View>
 
-      <Tab.Navigator>
-        <Tab.Screen name="Roster">
-          {() => <RosterScreen rosterPlayers={rosterPlayers} />}
-        </Tab.Screen>
-        <Tab.Screen name="All Players">
-          {() => <AllPlayersScreen allPlayers={filteredPlayers} addPlayerToRoster={addPlayerToRoster} />}
-        </Tab.Screen>
-        <Tab.Screen name="Field" component={FieldScreen} />
-      </Tab.Navigator>
+      {renderTab()}
     </View>
   );
 };
@@ -171,6 +210,24 @@ const styles = StyleSheet.create({
     borderRadius: 5,
     paddingLeft: 10,
     marginRight: 10,
+  },
+  tabContainer: {
+    flexDirection: 'row',
+    marginBottom: 20,
+  },
+  tab: {
+    flex: 1,
+    padding: 10,
+    alignItems: 'center',
+    borderBottomWidth: 2,
+    borderBottomColor: 'transparent',
+  },
+  selectedTab: {
+    borderBottomColor: 'blue',
+  },
+  tabText: {
+    fontSize: 16,
+    fontWeight: 'bold',
   },
   filters: {
     marginBottom: 20,
@@ -202,10 +259,6 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     width: '47%', // Three columns
     aspectRatio: 1, // Make the cards square
-    shadowColor: 'blue', // Blue shadow color
-    shadowOffset: { width: 0, height: 0 }, // Evenly distributed shadow
-    shadowOpacity: 0.5, // Increased opacity for visibility
-    shadowRadius: 8,
     elevation: 5,
   }, 
   cardTitle: {
@@ -216,4 +269,3 @@ const styles = StyleSheet.create({
 });
 
 export default TeamScreen;
-
